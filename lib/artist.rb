@@ -7,3 +7,6 @@ class Artist
   end
  
 end
+
+hotline_bling.artist = "Drake"
+hotline_bling.artist
